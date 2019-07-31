@@ -1,6 +1,6 @@
 # KoskBird
 
-Simple platformer game made using JQuery (made in my early coding days).
+Simple side-scroller game made using JQuery (made in my early coding days).
 
 ## Run
 
